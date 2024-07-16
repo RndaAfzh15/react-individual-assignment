@@ -1,0 +1,15 @@
+catatan:
+sebenarnya app react nya jalan dengan baik, tapi ada kesalahan di package.json terutama di
+
+"scripts": {
+   
+    "start": "set NODE_OPTIONS=--openssl-legacy-provider && react-scripts start"}
+
+harusnya:
+
+"scripts": {
+   "start": "react-scripts start"}
+
+tapi ketika saya type node_modules/.bin/react-scripts start  app juga bisa berjalan dengan normal.
+
+tapi sudah saya ganti ke yang seharusnya jadi sekarang kalau diketik  npm run start bisa jalan... 
