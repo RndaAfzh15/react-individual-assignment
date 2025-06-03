@@ -17,7 +17,7 @@
     {
       "id": 3,
       "nama": "WICKED CHILDREN",
-      "alamat": "never get to heaven",
+      "alamat": "California",
       "umur": 18,
       "NoHP": "0897545628381"
     },
@@ -31,14 +31,14 @@
     {
       "id": 5,
       "nama": "korban ldr",
-      "alamat": "WA",
+      "alamat": "Kediri",
       "umur": 20,
       "NoHP": "0897545628381"
     },
     {
       "id": 6,
       "nama": "kurt cobain",
-      "alamat": "heaven",
+      "alamat": "Seattle",
       "umur": 20,
       "NoHP": "0897545628381"
     },
@@ -51,7 +51,7 @@
     },
     {
       "id": 8,
-      "nama": "tehyung",
+      "nama": "Hana",
       "alamat": "bekasi",
       "umur": 20,
       "NoHP": "0897545628381"
