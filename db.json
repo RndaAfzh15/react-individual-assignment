@@ -16,8 +16,8 @@
     },
     {
       "id": 3,
-      "nama": "WICKED CHILDREN",
-      "alamat": "never get to heaven",
+      "nama": "reza",
+      "alamat": "jawa",
       "umur": 18,
       "NoHP": "0897545628381"
     },
@@ -30,15 +30,15 @@
     },
     {
       "id": 5,
-      "nama": "korban ldr",
-      "alamat": "WA",
+      "nama": "abdul",
+      "alamat": "kaltim",
       "umur": 20,
       "NoHP": "0897545628381"
     },
     {
       "id": 6,
       "nama": "kurt cobain",
-      "alamat": "heaven",
+      "alamat": "seattle",
       "umur": 20,
       "NoHP": "0897545628381"
     },
@@ -51,14 +51,14 @@
     },
     {
       "id": 8,
-      "nama": "tehyung",
+      "nama": "ica",
       "alamat": "bekasi",
       "umur": 20,
       "NoHP": "0897545628381"
     },
     {
       "id": 9,
-      "nama": "jannabi",
+      "nama": "reza",
       "alamat": "jogja",
       "umur": 20,
       "NoHP": "0897545628381"
@@ -73,7 +73,7 @@
     {
       "id": 11,
       "nama": "playboi carti",
-      "alamat": "jatim",
+      "alamat": "sunda",
       "umur": 20,
       "NoHP": "0897545628381"
     },
